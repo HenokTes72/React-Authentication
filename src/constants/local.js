@@ -1,0 +1,1 @@
+export const CURRENT_LOCATION = "CURRENT_LOCATION";

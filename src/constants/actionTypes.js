@@ -1,0 +1,4 @@
+export const QUESTION_FETCH = 'QUESTION_FETCH';
+export const QUESTIONS_FETCH = 'QUESTIONS_FETCH';
+export const ADD_QUESTION = 'ADD_QUESTION';
+export const ADD_QUESTIONS = 'ADD_QUESTIONS';
